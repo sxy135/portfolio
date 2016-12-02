@@ -1,4 +1,4 @@
 %
 %
 %
-Thanks to naz,bar.
+Thanks to naz, foo.
